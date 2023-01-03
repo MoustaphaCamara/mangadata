@@ -13,43 +13,6 @@
       "price": 7.99,
       "img": "src/assets/img/tg9.jpeg",
       "description": "Six mois ont passé depuis l'assaut dans le 11e arrondissement. L'expédition du CCG contre Aogiri donne lieu à une série de promotions au sein des inspecteurs. Kotaro Amon, devenu inspecteur en chef, se voit enfin attribué la responsabilité d'un novice dont l'identité a de quoi surprendre. Ken s'est quant à lui éloigné de l'Antique pour remonter la piste de Lize jusque dans le 6e arrondissement, avec l'aide de Shu et Banjo. \n Mais le fil de leurs enquêtes respectives va fatalement rapprocher Ken et Kotaro..."
-    },
-    {
-      "id": 3,
-      "title": "Tokyo Ghoul T12",
-      "price": 6.99,
-      "img": "src/assets/img/tg12.jpeg",
-      "description": "En blessant l’un de ses amis, Ken ressent une culpabilité libératrice qui le pousse à écouter ce que tente de lui dire son entourage. Les “goules” vont alors lui dévoiler petit à petit leur passé et leur vrai visage... \n Dans le même temps, le CCG est en passe de résoudre l’énigme posée par la “Chouette” et la compréhension d’une “réalité indiscutable” pousse le Centre à passer à l’action. \n Mais c’est sans compter sur une “nouvelle réalité” qui apparaît sous les traits de l’écrivain de génie, Sen Takatsuki..."
-    },
-    {
-      "id": 4,
-      "title": "Tokyo Ghoul T13",
-      "price": 9.99,
-      "img": "src/assets/img/tg13.jpeg",
-      "description": "“Je vais retourner à l’“Antique”.” \n C’est ainsi que Ken décide de fermer son repaire du 6e arrondissement pour retourner dans le 20e, près du patron Yoshimura.\n Pour tout reprendre à zéro. Pour retrouver celui qu’il était avant.\n Au même moment, le CCG s’apprête à lancer une vaste opération pour éliminer la “Chouette”. Une foule d’inspecteurs brûle de mettre un terme à une lutte vieille de dix ans, à l’aide des instruments de mort forgés à partir des dépouilles de leurs ennemis.\n Ce combat se déroulera dans le 20e. Sur le seuil du café l’“Antique”."
-    },
-    {
-      "id": 5,
-      "title": "Tokyo Ghoul T14",
-      "price": 8.99,
-      "img": "src/assets/img/tg14.jpeg",
-      "description": "“J’aimerais connaître ton histoire.”\n Une requête étrange, alors même que l’opération du CCG destinée à abattre la “Chouette” atteint son paroxysme. Devant Ken qui fonce vers l’“Antique” se tient l’auteur de cette requête, l’inspecteur Kotaro Amon. Ken et Kotaro, deux destinées vouées à s’affronter, jusqu’à la plus incertaine des issues..."
-    },
-    {
-      "id": 16,
-      "title": "Jujutsu Kaisen 04",
-      "price": 7.99,
-      "img": "src/assets/img/jjk4.jpg",
-
-      "description": "En attendant que Yuji puisse rejoindre l'école d'exorcisme, Satoru le confie à son collègue, Kento Nanami, pour enquêter sur une étrange affaire... En effet, les corps affreusement déformés de trois lycéens ont été retrouvés dans un cinéma. Le duo découvre très vite l'horrible vérité : certains fléaux seraient en fait des êtres humains ! Reste à savoir qui est capable d'opérer une telle transformation... \n Pendant que son mentor part en reconnaissance, Yuji rencontre Junpei, seul témoin du meurtre de ses camarades, et parvient même à se lier d'amitié avec lui. Mais tout bascule lorsque l'adolescent, victime de harcèlement scolaire, perd sa mère, sauvagement assassinée... Désormais, il ne pense plus qu'à se venger de tous ceux qui l'ont fait souffrir !"
-    },
-    {
-      "id": 17,
-      "title": "Jujutsu Kaisen 05",
-      "price": 7.99,
-      "img": "src/assets/img/jjk5.jpg",
-
-      "description": "Après un combat de longue haleine face au redoutable Mahito, Yuji doit préparer son retour en chair et en os à l'école d'exorcisme. En effet, le tournoi contre le lycée jumelé de Kyoto est sur le point de commencer, et les participants sont prêts à tout pour l'emporter... La chasse aux fléaux est ouverte ! \n Malheureusement pour l'adolescent, l'équipe adverse a en fait un tout autre plan en tête : supprimer pour de bon le réceptacle de Sukuna ! Et qui de mieux que le puissant Aoi Todo pour se débarrasser de lui ? Pour Yuji, l'épreuve prend soudain un tournant inattendu.."
     }
   ]
 }
